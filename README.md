@@ -24,6 +24,6 @@ This is amazing weather app which uses open weather api and it can fetch the wea
 - firebase integration
 
 ## How to use
-Download the repository
+Download the repository (https://github.com/Aastha-Agrahari/CODTECH-Task1)
 Let the project build. It takes some time if you are building for first time
 After build run the project and there you go!
