@@ -27,3 +27,7 @@ This is amazing weather app which uses open weather api and it can fetch the wea
 Download the repository (https://github.com/Aastha-Agrahari/CODTECH-Task1)
 Let the project build. It takes some time if you are building for first time
 After build run the project and there you go!
+
+## Output
+![Screenshot_2024-06-28-17-39-39-91_958f6f0b5e4603c3776f1c53e761dbb3](https://github.com/Aastha-Agrahari/CODTECH-Task1/assets/125497845/b7511b63-e886-4c24-baca-d19a1e9b3787)
+
