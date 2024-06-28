@@ -1,10 +1,10 @@
 # Details
-Name:AASTHA GUPTA
-Company:CODTECH IT SOLUTIONS
-Id:CT08DS2952
-Domain:Android Developement
-Duration: June to July  2024
-Mentor:N.Santhosh Kumar
+- Name:AASTHA GUPTA
+- Company:CODTECH IT SOLUTIONS
+- Id:CT08DS2952
+- Domain:Android Developement
+- Duration: June to July  2024
+- Mentor:N.Santhosh Kumar
 
 # WeatherForecastAppInAndroidStudio
 This is amazing weather app which uses open weather api and it can fetch the weather of your current location or any particular city. The UI of the app is completely responsive.
