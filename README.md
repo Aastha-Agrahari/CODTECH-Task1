@@ -1,4 +1,4 @@
-# WeatherAppInAndroidStudio
+# WeatherForecastAppInAndroidStudio
 This is amazing weather app which uses open weather api and it can fetch the weather of your current location or any particular city. The UI of the app is completely responsive.
 
 ![Copy of seek bar (3)](https://user-images.githubusercontent.com/64765400/103085628-1c2cac00-4597-11eb-9c40-3d1663e0a39a.png)
@@ -16,7 +16,7 @@ This is amazing weather app which uses open weather api and it can fetch the wea
 - firebase integration
 
 ## How to use
-Download the repository [Weather-app-in-android-studio](https://github.com/Sanjeevk03/Weather-app-in-Android-Studio)
+Download the repository
 Let the project build. It takes some time if you are building for first time
 After build run the project and there you go!
 
